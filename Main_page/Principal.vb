@@ -155,7 +155,7 @@ Public Class Principal
 
 
         'load the picture image into the picturebox
-        PictureBox1.Image = Image.FromFile("C:\Users\lsfez\Source\Repos\ProjDevSysteme\Main_page\gas-fuel-receipt-maker-15830962323.png")
+        PictureBox1.Image = Image.FromFile("C:\Users\bena84\OneDrive - Université du Québec en Outaouais\Bureau\Dev\ProjetDevSys\INF1583-01-ProjetDevSys\Main_page\gas-fuel-receipt-maker-15830962323.png")
         PictureBox1.SizeMode = PictureBoxSizeMode.Zoom
 
 

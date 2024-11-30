@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\",
+  "WorkspaceRootPath": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\pompe1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\pompe1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\frmhelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmhelp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\pompe4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\pompe4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\pompe4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\pompe4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\frmconsulter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmconsulter.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\frmactiverpompe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmactiverpompe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,63 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationEvents.vb",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\ApplicationEvents.vb",
-              "RelativeDocumentMoniker": "Main_page\\ApplicationEvents.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\ApplicationEvents.vb",
-              "RelativeToolTip": "Main_page\\ApplicationEvents.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
+              "Title": "Pompe1.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe1.vb",
+              "RelativeDocumentMoniker": "Main_page\\Pompe1.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe1.vb",
+              "RelativeToolTip": "Main_page\\Pompe1.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:50:08.846Z",
+              "WhenOpened": "2024-11-30T21:57:26.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmHelp.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmHelp.vb",
-              "RelativeDocumentMoniker": "Main_page\\frmHelp.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmHelp.vb [Design]",
-              "RelativeToolTip": "Main_page\\frmHelp.vb [Design]",
+              "Title": "Pompe4.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe4.vb",
+              "RelativeDocumentMoniker": "Main_page\\Pompe4.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe4.vb",
+              "RelativeToolTip": "Main_page\\Pompe4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:48:55.209Z",
+              "WhenOpened": "2024-11-30T21:57:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pompe4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe4.vb",
+              "RelativeDocumentMoniker": "Main_page\\Pompe4.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Pompe4.vb [Design]",
+              "RelativeToolTip": "Main_page\\Pompe4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T21:57:08.247Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmConsulter.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmConsulter.vb",
-              "RelativeDocumentMoniker": "Main_page\\frmConsulter.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmConsulter.vb [Design]",
-              "RelativeToolTip": "Main_page\\frmConsulter.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:48:51.726Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmChargement.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmChargement.vb",
+              "Title": "frmChargement.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
               "RelativeDocumentMoniker": "Main_page\\frmChargement.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmChargement.vb [Design]",
-              "RelativeToolTip": "Main_page\\frmChargement.vb [Design]",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
+              "RelativeToolTip": "Main_page\\frmChargement.vb",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:48:49.864Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-30T21:56:39.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmActiverPompe.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmActiverPompe.vb",
-              "RelativeDocumentMoniker": "Main_page\\frmActiverPompe.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmActiverPompe.vb [Design]",
-              "RelativeToolTip": "Main_page\\frmActiverPompe.vb [Design]",
+              "Title": "frmChargement.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
+              "RelativeDocumentMoniker": "Main_page\\frmChargement.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb [Design]",
+              "RelativeToolTip": "Main_page\\frmChargement.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:48:48.352Z",
+              "WhenOpened": "2024-11-30T21:56:35.862Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Principal.vb",
+              "RelativeDocumentMoniker": "Main_page\\Principal.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Principal.vb",
+              "RelativeToolTip": "Main_page\\Principal.vb",
+              "ViewState": "AgIAAIEAAAAAAAAAAAA6wJ0AAADKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T21:54:08.893Z",
+              "EditorCaption": ""
             }
           ]
         }

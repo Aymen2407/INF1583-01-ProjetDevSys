@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\",
+  "WorkspaceRootPath": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projdevsysteme-main\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\frmchargement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|c:\\users\\bena84\\onedrive - universit\u00E9 du qu\u00E9bec en outaouais\\bureau\\dev\\projetdevsys\\inf1583-01-projetdevsys\\main_page\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AC186B3-7436-46F0-A835-74859958F4C9}|Main_page\\Main_page.vbproj|solutionrelative:main_page\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +32,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmChargement.vb",
-              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmChargement.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
               "RelativeDocumentMoniker": "Main_page\\frmChargement.vb",
-              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjDevSysteme-main\\Main_page\\frmChargement.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
               "RelativeToolTip": "Main_page\\frmChargement.vb",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-30T20:40:53.951Z",
+              "WhenOpened": "2024-11-30T21:56:39.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChargement.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb",
+              "RelativeDocumentMoniker": "Main_page\\frmChargement.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\frmChargement.vb [Design]",
+              "RelativeToolTip": "Main_page\\frmChargement.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T21:56:35.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.vb",
+              "DocumentMoniker": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Principal.vb",
+              "RelativeDocumentMoniker": "Main_page\\Principal.vb",
+              "ToolTip": "C:\\Users\\bena84\\OneDrive - Universit\u00E9 du Qu\u00E9bec en Outaouais\\Bureau\\Dev\\ProjetDevSys\\INF1583-01-ProjetDevSys\\Main_page\\Principal.vb",
+              "RelativeToolTip": "Main_page\\Principal.vb",
+              "ViewState": "AgIAAIEAAAAAAAAAAAA6wJ0AAADKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T21:54:08.893Z",
               "EditorCaption": ""
             }
           ]

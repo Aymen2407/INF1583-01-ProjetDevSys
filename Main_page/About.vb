@@ -15,7 +15,7 @@
         Me.LabelProductName.Text = "Nom du Produit : Systeme de Gestion des Pompes."
         Me.LabelVersion.Text = "Version : 1.0 alpha."
         Me.LabelCopyright.Text = "Droit Légal :Tous droits sont non réservés."
-        Me.LabelCompanyName.Text = "Conçu par : Michèle Mouafo."
+        Me.LabelCompanyName.Text = "Conçu par : Aymen Ben Jebara."
         Me.TextBoxDescription.Text = "Notre compagnie est spécialisée dans la conception des logiciels pour la gestion d’une station de service. 
 Le logiciel permet la gestion des pompes et la reconnaissance de l’état des réservoirs; la gestion des transactions réalisées sur les pompes comportant, 
 entre autres, l’archivage des transactions impayées, le paiement de la facture de la transaction; la gestion des rapports permettant d’éditer de rapports 
@@ -28,4 +28,7 @@ des utilisateurs (création, suppression des noms et mots de passe des utilisate
         Me.Close()
     End Sub
 
+    Private Sub LabelCompanyName_Click(sender As Object, e As EventArgs) Handles LabelCompanyName.Click
+
+    End Sub
 End Class
