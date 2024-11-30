@@ -60,7 +60,7 @@ Partial Class Principal
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(11, 4, 0, 4)
-        Me.MenuStrip1.Size = New System.Drawing.Size(935, 35)
+        Me.MenuStrip1.Size = New System.Drawing.Size(935, 31)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -70,32 +70,32 @@ Partial Class Principal
         Me.PompesToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.Pompes1ToolStripMenuItem, Me.ToolStripMenuItem2})
         Me.PompesToolStripMenuItem1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PompesToolStripMenuItem1.Name = "PompesToolStripMenuItem1"
-        Me.PompesToolStripMenuItem1.Size = New System.Drawing.Size(84, 27)
+        Me.PompesToolStripMenuItem1.Size = New System.Drawing.Size(69, 23)
         Me.PompesToolStripMenuItem1.Text = "Pompes"
         '
         'Pompes1ToolStripMenuItem
         '
         Me.Pompes1ToolStripMenuItem.Name = "Pompes1ToolStripMenuItem"
-        Me.Pompes1ToolStripMenuItem.Size = New System.Drawing.Size(231, 28)
+        Me.Pompes1ToolStripMenuItem.Size = New System.Drawing.Size(188, 24)
         Me.Pompes1ToolStripMenuItem.Text = "Activer/Désactiver"
         '
         'ToolStripMenuItem2
         '
         Me.ToolStripMenuItem2.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ModifierToolStripMenuItem1, Me.ConsulterToolStripMenuItem})
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(231, 28)
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(188, 24)
         Me.ToolStripMenuItem2.Text = "Mettre à Jour"
         '
         'ModifierToolStripMenuItem1
         '
         Me.ModifierToolStripMenuItem1.Name = "ModifierToolStripMenuItem1"
-        Me.ModifierToolStripMenuItem1.Size = New System.Drawing.Size(179, 28)
+        Me.ModifierToolStripMenuItem1.Size = New System.Drawing.Size(146, 24)
         Me.ModifierToolStripMenuItem1.Text = "Modifier"
         '
         'ConsulterToolStripMenuItem
         '
         Me.ConsulterToolStripMenuItem.Name = "ConsulterToolStripMenuItem"
-        Me.ConsulterToolStripMenuItem.Size = New System.Drawing.Size(179, 28)
+        Me.ConsulterToolStripMenuItem.Size = New System.Drawing.Size(146, 24)
         Me.ConsulterToolStripMenuItem.Text = "Consulter..."
         '
         'PompesToolStripMenuItem
@@ -104,13 +104,13 @@ Partial Class Principal
         Me.PompesToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.GestionDesEmployésToolStripMenuItem})
         Me.PompesToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PompesToolStripMenuItem.Name = "PompesToolStripMenuItem"
-        Me.PompesToolStripMenuItem.Size = New System.Drawing.Size(136, 27)
+        Me.PompesToolStripMenuItem.Size = New System.Drawing.Size(111, 23)
         Me.PompesToolStripMenuItem.Text = "Administration"
         '
         'GestionDesEmployésToolStripMenuItem
         '
         Me.GestionDesEmployésToolStripMenuItem.Name = "GestionDesEmployésToolStripMenuItem"
-        Me.GestionDesEmployésToolStripMenuItem.Size = New System.Drawing.Size(260, 28)
+        Me.GestionDesEmployésToolStripMenuItem.Size = New System.Drawing.Size(212, 24)
         Me.GestionDesEmployésToolStripMenuItem.Text = "Gestion des Employés"
         '
         'FacturationToolStripMenuItem
@@ -119,19 +119,19 @@ Partial Class Principal
         Me.FacturationToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PaiementToolStripMenuItem, Me.ImprimerDerniereFactureToolStripMenuItem})
         Me.FacturationToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.FacturationToolStripMenuItem.Name = "FacturationToolStripMenuItem"
-        Me.FacturationToolStripMenuItem.Size = New System.Drawing.Size(109, 27)
+        Me.FacturationToolStripMenuItem.Size = New System.Drawing.Size(90, 23)
         Me.FacturationToolStripMenuItem.Text = "Facturation"
         '
         'PaiementToolStripMenuItem
         '
         Me.PaiementToolStripMenuItem.Name = "PaiementToolStripMenuItem"
-        Me.PaiementToolStripMenuItem.Size = New System.Drawing.Size(294, 28)
+        Me.PaiementToolStripMenuItem.Size = New System.Drawing.Size(239, 24)
         Me.PaiementToolStripMenuItem.Text = "Paiement"
         '
         'ImprimerDerniereFactureToolStripMenuItem
         '
         Me.ImprimerDerniereFactureToolStripMenuItem.Name = "ImprimerDerniereFactureToolStripMenuItem"
-        Me.ImprimerDerniereFactureToolStripMenuItem.Size = New System.Drawing.Size(294, 28)
+        Me.ImprimerDerniereFactureToolStripMenuItem.Size = New System.Drawing.Size(239, 24)
         Me.ImprimerDerniereFactureToolStripMenuItem.Text = "Imprimer Derniere Facture"
         '
         'RapportsToolStripMenuItem
@@ -140,25 +140,25 @@ Partial Class Principal
         Me.RapportsToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PaiementsToolStripMenuItem, Me.ListeDesTransactionsParMasterCardToolStripMenuItem, Me.ListeDesTrasactionParCarteDébitToolStripMenuItem})
         Me.RapportsToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.RapportsToolStripMenuItem.Name = "RapportsToolStripMenuItem"
-        Me.RapportsToolStripMenuItem.Size = New System.Drawing.Size(92, 27)
+        Me.RapportsToolStripMenuItem.Size = New System.Drawing.Size(76, 23)
         Me.RapportsToolStripMenuItem.Text = "Rapports"
         '
         'PaiementsToolStripMenuItem
         '
         Me.PaiementsToolStripMenuItem.Name = "PaiementsToolStripMenuItem"
-        Me.PaiementsToolStripMenuItem.Size = New System.Drawing.Size(403, 28)
+        Me.PaiementsToolStripMenuItem.Size = New System.Drawing.Size(326, 24)
         Me.PaiementsToolStripMenuItem.Text = "Liste des transactions impayéess"
         '
         'ListeDesTransactionsParMasterCardToolStripMenuItem
         '
         Me.ListeDesTransactionsParMasterCardToolStripMenuItem.Name = "ListeDesTransactionsParMasterCardToolStripMenuItem"
-        Me.ListeDesTransactionsParMasterCardToolStripMenuItem.Size = New System.Drawing.Size(403, 28)
+        Me.ListeDesTransactionsParMasterCardToolStripMenuItem.Size = New System.Drawing.Size(326, 24)
         Me.ListeDesTransactionsParMasterCardToolStripMenuItem.Text = "Liste des transactions par Carte credit"
         '
         'ListeDesTrasactionParCarteDébitToolStripMenuItem
         '
         Me.ListeDesTrasactionParCarteDébitToolStripMenuItem.Name = "ListeDesTrasactionParCarteDébitToolStripMenuItem"
-        Me.ListeDesTrasactionParCarteDébitToolStripMenuItem.Size = New System.Drawing.Size(403, 28)
+        Me.ListeDesTrasactionParCarteDébitToolStripMenuItem.Size = New System.Drawing.Size(326, 24)
         Me.ListeDesTrasactionParCarteDébitToolStripMenuItem.Text = "Liste des Transactions par Compte Client"
         '
         'ImpayésToolStripMenuItem1
@@ -167,13 +167,13 @@ Partial Class Principal
         Me.ImpayésToolStripMenuItem1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CréerToolStripMenuItem1})
         Me.ImpayésToolStripMenuItem1.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ImpayésToolStripMenuItem1.Name = "ImpayésToolStripMenuItem1"
-        Me.ImpayésToolStripMenuItem1.Size = New System.Drawing.Size(87, 27)
+        Me.ImpayésToolStripMenuItem1.Size = New System.Drawing.Size(72, 23)
         Me.ImpayésToolStripMenuItem1.Text = "Impayés"
         '
         'CréerToolStripMenuItem1
         '
         Me.CréerToolStripMenuItem1.Name = "CréerToolStripMenuItem1"
-        Me.CréerToolStripMenuItem1.Size = New System.Drawing.Size(169, 28)
+        Me.CréerToolStripMenuItem1.Size = New System.Drawing.Size(138, 24)
         Me.CréerToolStripMenuItem1.Text = "Archivage"
         '
         'AdminToolStripMenuItem
@@ -182,42 +182,42 @@ Partial Class Principal
         Me.AdminToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AjouterUnEmployerToolStripMenuItem, Me.SupprimerUnEmployerToolStripMenuItem, Me.ModifierToolStripMenuItem, Me.ToolStripSeparator2, Me.ÀProposToolStripMenuItem, Me.FermerToolStripMenuItem})
         Me.AdminToolStripMenuItem.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.AdminToolStripMenuItem.Name = "AdminToolStripMenuItem"
-        Me.AdminToolStripMenuItem.Size = New System.Drawing.Size(58, 27)
+        Me.AdminToolStripMenuItem.Size = New System.Drawing.Size(48, 23)
         Me.AdminToolStripMenuItem.Text = "Aide"
         '
         'AjouterUnEmployerToolStripMenuItem
         '
         Me.AjouterUnEmployerToolStripMenuItem.Name = "AjouterUnEmployerToolStripMenuItem"
-        Me.AjouterUnEmployerToolStripMenuItem.Size = New System.Drawing.Size(211, 28)
+        Me.AjouterUnEmployerToolStripMenuItem.Size = New System.Drawing.Size(171, 24)
         Me.AjouterUnEmployerToolStripMenuItem.Text = "Aide"
         '
         'SupprimerUnEmployerToolStripMenuItem
         '
         Me.SupprimerUnEmployerToolStripMenuItem.Name = "SupprimerUnEmployerToolStripMenuItem"
-        Me.SupprimerUnEmployerToolStripMenuItem.Size = New System.Drawing.Size(211, 28)
+        Me.SupprimerUnEmployerToolStripMenuItem.Size = New System.Drawing.Size(171, 24)
         Me.SupprimerUnEmployerToolStripMenuItem.Text = "Nous contacter"
         '
         'ModifierToolStripMenuItem
         '
         Me.ModifierToolStripMenuItem.Name = "ModifierToolStripMenuItem"
-        Me.ModifierToolStripMenuItem.Size = New System.Drawing.Size(211, 28)
+        Me.ModifierToolStripMenuItem.Size = New System.Drawing.Size(171, 24)
         Me.ModifierToolStripMenuItem.Text = "Horaire"
         '
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(208, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(168, 6)
         '
         'ÀProposToolStripMenuItem
         '
         Me.ÀProposToolStripMenuItem.Name = "ÀProposToolStripMenuItem"
-        Me.ÀProposToolStripMenuItem.Size = New System.Drawing.Size(211, 28)
+        Me.ÀProposToolStripMenuItem.Size = New System.Drawing.Size(171, 24)
         Me.ÀProposToolStripMenuItem.Text = "À Propos"
         '
         'FermerToolStripMenuItem
         '
         Me.FermerToolStripMenuItem.Name = "FermerToolStripMenuItem"
-        Me.FermerToolStripMenuItem.Size = New System.Drawing.Size(211, 28)
+        Me.FermerToolStripMenuItem.Size = New System.Drawing.Size(171, 24)
         Me.FermerToolStripMenuItem.Text = "Fermer"
         '
         'PrintPreviewDialog1
@@ -232,7 +232,7 @@ Partial Class Principal
         '
         'Principal
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 23.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 19.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom

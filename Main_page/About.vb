@@ -13,7 +13,7 @@
         ' TODO: Customize the application's assembly information in the "Application" pane of the project 
         '    properties dialog (under the "Project" menu).
         Me.LabelProductName.Text = "Nom du Produit : Systeme de Gestion des Pompes."
-        Me.LabelVersion.Text = "Version : 1.0 alpha."
+        Me.LabelVersion.Text = "Version : 0.8 Alpha Ptoyo"
         Me.LabelCopyright.Text = "Droit Légal :Tous droits sont non réservés."
         Me.LabelCompanyName.Text = "Conçu par : Aymen Ben Jebara."
         Me.TextBoxDescription.Text = "Notre compagnie est spécialisée dans la conception des logiciels pour la gestion d’une station de service. 
